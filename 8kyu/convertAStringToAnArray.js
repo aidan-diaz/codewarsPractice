@@ -13,6 +13,7 @@ Examples (Input ==> Output):
 
 const stringToArray = string => string.split(' ')
 
+
 //Parameters --> one string input
 //Return --> input string converted into an array of words
 /* Examples
